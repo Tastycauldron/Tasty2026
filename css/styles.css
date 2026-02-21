@@ -1,6 +1,3 @@
-body {
-  background: red !important;
-}
 
 
 /* 🌙 Global Reset */
@@ -8,6 +5,10 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  background: red !important;
 }
 
 body {
